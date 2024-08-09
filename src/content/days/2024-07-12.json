@@ -315,7 +315,7 @@
       "slug": "automatic-trusted-publishing-with-pypi",
       "speakers": [
         {
-          "avatar": "",
+          "avatar": "https://program.europython.eu/media/avatars/TF_hIToXzA.jpeg",
           "code": "QAEYKQ",
           "name": "Facundo Tuesca",
           "slug": "facundo-tuesca",
@@ -414,7 +414,7 @@
       "slug": "which-llm-said-that-watermarking-generated-text",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/af94505adbb81b3e2260c0a8250f2f45_WCzPpL2.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/20150509kama1_2_QgxLswu.jpg",
           "code": "T7ZJJ8",
           "name": "Adam Kaczmarek",
           "slug": "adam-kaczmarek",
@@ -536,7 +536,7 @@
       "slug": "those-annotations-can-have-things-other-than-typing",
       "speakers": [
         {
-          "avatar": "",
+          "avatar": "https://program.europython.eu/media/avatars/portrait_mWYUA0X.jpg",
           "code": "BM73DH",
           "name": "Mattijs Ugen",
           "slug": "mattijs-ugen",
@@ -550,27 +550,50 @@
       "website_url": "https://ep2024.europython.eu/session/those-annotations-can-have-things-other-than-typing"
     },
     {
-      "code": "MAHYVG",
+      "code": "PYV9VD",
       "duration": 30,
       "event_type": "session",
       "level": "beginner",
-      "rooms": ["Terrace 2B"],
+      "rooms": ["South Hall 2A"],
       "session_type": "Talk",
-      "slug": "diversity-project-subtle-introduction-of-data-science-using-pyroid",
+      "slug": "start-strong",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/f10760171352672fa48c6534b17e46d8_4aYHWZC.jpg",
-          "code": "WSSS9L",
-          "name": "Godfrey Akpojotor",
-          "slug": "godfrey-akpojotor",
-          "website_url": "https://ep2024.europython.eu/speaker/godfrey-akpojotor"
+          "avatar": "https://program.europython.eu/media/avatars/pyconua.jpg",
+          "code": "ECALAF",
+          "name": "Honza Kr\u00e1l",
+          "slug": "honza-kral",
+          "website_url": "https://ep2024.europython.eu/speaker/honza-kral"
         }
       ],
       "start": "2024-07-12T12:30:00+02:00",
-      "title": "Diversity Project: Subtle Introduction of Data Science using Pyroid",
+      "title": "Start strong!",
+      "track": "Python Internals & Ecosystem",
+      "tweet": "",
+      "website_url": "https://ep2024.europython.eu/session/start-strong"
+    },
+    {
+      "code": "XLGEHC",
+      "duration": 30,
+      "event_type": "session",
+      "level": "intermediate",
+      "rooms": ["Terrace 2B"],
+      "session_type": "Talk",
+      "slug": "effective-strategies-for-disability-inclusion-in-open-source-communities",
+      "speakers": [
+        {
+          "avatar": "https://program.europython.eu/media/avatars/BrayanKaiMwanyumba_2_8yYUqlz.jpg",
+          "code": "VULLQE",
+          "name": "Brayan Kai Mwanyumba",
+          "slug": "brayan-kai-mwanyumba",
+          "website_url": "https://ep2024.europython.eu/speaker/brayan-kai-mwanyumba"
+        }
+      ],
+      "start": "2024-07-12T12:30:00+02:00",
+      "title": "Effective Strategies for Disability Inclusion in Open Source Communities",
       "track": "Education, Community & Diversity",
       "tweet": "",
-      "website_url": "https://ep2024.europython.eu/session/diversity-project-subtle-introduction-of-data-science-using-pyroid"
+      "website_url": "https://ep2024.europython.eu/session/effective-strategies-for-disability-inclusion-in-open-source-communities"
     },
     {
       "code": "XPXYWD",
@@ -791,10 +814,10 @@
       "level": "intermediate",
       "rooms": ["Terrace 2A"],
       "session_type": "Talk",
-      "slug": "mltraq-track-your-ai-experiments-at-hyperspeed",
+      "slug": "mltraq-track-your-ml-ai-experiments-at-hyperspeed",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/me-squared_q05d7Iv.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/1697198843516_tpKQTVL.jpeg",
           "code": "ZKDDFP",
           "name": "Michele Dallachiesa",
           "slug": "michele-dallachiesa",
@@ -802,33 +825,33 @@
         }
       ],
       "start": "2024-07-12T14:00:00+02:00",
-      "title": "MLtraq: Track your AI experiments at hyperspeed",
+      "title": "MLtraq: Track your ML/AI experiments at hyperspeed",
       "track": "PyData: Research & Applications",
       "tweet": "",
-      "website_url": "https://ep2024.europython.eu/session/mltraq-track-your-ai-experiments-at-hyperspeed"
+      "website_url": "https://ep2024.europython.eu/session/mltraq-track-your-ml-ai-experiments-at-hyperspeed"
     },
     {
-      "code": "QS8KJY",
+      "code": "YMMFGD",
       "duration": 30,
       "event_type": "session",
       "level": "intermediate",
       "rooms": ["North Hall"],
       "session_type": "Talk",
-      "slug": "observability-matters-empowering-python-developers-with-opentelemetry",
+      "slug": "a-tale-of-scaling-observability",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/Picture400_g2MXOv2.jpg",
-          "code": "ULG79T",
-          "name": "Yash Raj Verma",
-          "slug": "yash-raj-verma",
-          "website_url": "https://ep2024.europython.eu/speaker/yash-raj-verma"
+          "avatar": "https://program.europython.eu/media/avatars/1516868105949_Aavng5Y.jpg",
+          "code": "YLDGBX",
+          "name": "Toomas Ormisson",
+          "slug": "toomas-ormisson",
+          "website_url": "https://ep2024.europython.eu/speaker/toomas-ormisson"
         }
       ],
       "start": "2024-07-12T14:00:00+02:00",
-      "title": "Observability Matters: Empowering Python Developers with OpenTelemetry.",
+      "title": "A Tale of Scaling Observability",
       "track": "DevOps and Infrastructure (Cloud & Hardware)",
-      "tweet": "",
-      "website_url": "https://ep2024.europython.eu/session/observability-matters-empowering-python-developers-with-opentelemetry"
+      "tweet": "A Tale of Scaling Observability Beyond Processing 50TB of Telemetry a Day",
+      "website_url": "https://ep2024.europython.eu/session/a-tale-of-scaling-observability"
     },
     {
       "code": "ZXXDBV",
@@ -894,7 +917,7 @@
         }
       ],
       "start": "2024-07-12T14:35:00+02:00",
-      "title": "Exploring Apache Iceberg : A Modern Data Lake Stack",
+      "title": "Exploring Apache Iceberg: A Modern Data Lake Stack",
       "track": "PyData: Data Engineering",
       "tweet": "Join @TechAtBloomberg's Gowthami Bhogireddy at #EuroPython2024 to learn how her team unleashed the dynamic duo of #bigdata management \u2013 #ApacheIceberg & #Parquet \u2013 to handle one quadrillion data points!",
       "website_url": "https://ep2024.europython.eu/session/exploring-apache-iceberg-a-modern-data-lake-stack"
@@ -1056,7 +1079,7 @@
       "event_type": "session",
       "level": "beginner",
       "rooms": ["Forum Hall"],
-      "session_type": "Announcements",
+      "session_type": "Talk",
       "slug": "sprint-orientation",
       "speakers": [],
       "start": "2024-07-12T17:15:00+02:00",

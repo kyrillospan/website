@@ -122,36 +122,6 @@
       "website_url": "https://ep2024.europython.eu/session/how-to-sell-a-big-refactor-or-rewrite-to-the-business"
     },
     {
-      "code": "DMV8BL",
-      "duration": 45,
-      "event_type": "session",
-      "level": "intermediate",
-      "rooms": ["Terrace 2A"],
-      "session_type": "Talk (long session)",
-      "slug": "profile-optimize-repeat-one-core-is-all-you-needtm",
-      "speakers": [
-        {
-          "avatar": "https://program.europython.eu/media/avatars/ich_jbJLWp2.jpg",
-          "code": "BBXVHQ",
-          "name": "Valentin Nieper",
-          "slug": "valentin-nieper",
-          "website_url": "https://ep2024.europython.eu/speaker/valentin-nieper"
-        },
-        {
-          "avatar": "https://program.europython.eu/media/avatars/profile_cropped_bw_97GMX9a.jpg",
-          "code": "YWKXWU",
-          "name": "Jonathan Striebel",
-          "slug": "jonathan-striebel",
-          "website_url": "https://ep2024.europython.eu/speaker/jonathan-striebel"
-        }
-      ],
-      "start": "2024-07-10T10:45:00+02:00",
-      "title": "Profile, Optimize, Repeat: One Core Is All You Need\u2122",
-      "track": "PyData: Data Engineering",
-      "tweet": "Profile, optimize, repeat, one core is all you need\u2122! Discover handy tools for your optimization cycle!",
-      "website_url": "https://ep2024.europython.eu/session/profile-optimize-repeat-one-core-is-all-you-needtm"
-    },
-    {
       "code": "GHYHAE",
       "duration": 45,
       "event_type": "session",
@@ -203,6 +173,29 @@
       "track": "Arts, Crafts Culture & Demos",
       "tweet": "Join Rodrigo \ud83d\udc0d\ud83d\ude80 and learn how to create colourful animations from first principles in Python.",
       "website_url": "https://ep2024.europython.eu/session/animations-from-first-principles"
+    },
+    {
+      "code": "VDDTBS",
+      "duration": 45,
+      "event_type": "session",
+      "level": "advanced",
+      "rooms": ["Terrace 2A"],
+      "session_type": "Talk (long session)",
+      "slug": "is-rag-all-you-need-a-look-at-the-limits-of-retrieval-augmented-generation",
+      "speakers": [
+        {
+          "avatar": "",
+          "code": "3WVLQA",
+          "name": "Sara Zanzottera",
+          "slug": "sara-zanzottera",
+          "website_url": "https://ep2024.europython.eu/speaker/sara-zanzottera"
+        }
+      ],
+      "start": "2024-07-10T10:45:00+02:00",
+      "title": "Is RAG all you need? A look at the limits of retrieval augmented generation",
+      "track": "PyData: LLMs",
+      "tweet": "Improving your LLM's output with RAG feels like \u2728 magic \u2728: effective, cheap, easy to implement. But when it doesn't work, do you know how to fix it? \ud83e\ude7a Let's explore the limits of this amazing LLM technique \ud83e\udded",
+      "website_url": "https://ep2024.europython.eu/session/is-rag-all-you-need-a-look-at-the-limits-of-retrieval-augmented-generation"
     },
     {
       "code": "ZWDDAT",
@@ -283,7 +276,7 @@
       "slug": "intellectual-property-law-101",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/d3da8160dd1848c1194e15df4fb1051c_bFs9Mv0.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/anwesha_IlCMLPK.jpg",
           "code": "XXDZKP",
           "name": "Anwesha Das",
           "slug": "anwesha-das",
@@ -637,15 +630,65 @@
       "duration": 60,
       "event_type": "session",
       "level": "beginner",
-      "rooms": ["South Hall 2A"],
+      "rooms": ["South Hall 2B"],
       "session_type": "Panel",
-      "slug": "discussion-panel-tbd",
-      "speakers": [],
+      "slug": "cpython-core-development-panel",
+      "speakers": [
+        {
+          "avatar": "https://program.europython.eu/media/avatars/_DSF4665_cropped-min_N6pvoQR.jpg",
+          "code": "FRXXAQ",
+          "name": "Lysandros Nikolaou",
+          "slug": "lysandros-nikolaou",
+          "website_url": "https://ep2024.europython.eu/speaker/lysandros-nikolaou"
+        },
+        {
+          "avatar": "https://program.europython.eu/media/avatars/carol_2XdXiWK.webp",
+          "code": "HBHXB3",
+          "name": "Carol Willing",
+          "slug": "carol-willing",
+          "website_url": "https://ep2024.europython.eu/speaker/carol-willing"
+        },
+        {
+          "avatar": "https://program.europython.eu/media/avatars/2022_profile_hOU4JId.jpg",
+          "code": "LBHYNH",
+          "name": "Victor Stinner",
+          "slug": "victor-stinner",
+          "website_url": "https://ep2024.europython.eu/speaker/victor-stinner"
+        },
+        {
+          "avatar": "https://program.europython.eu/media/avatars/77c28d84086eaacc4f606416ea70434d_iz2nSan.jpg",
+          "code": "NLHSWB",
+          "name": "Pablo Galindo Salgado",
+          "slug": "pablo-galindo-salgado",
+          "website_url": "https://ep2024.europython.eu/speaker/pablo-galindo-salgado"
+        },
+        {
+          "avatar": "",
+          "code": "NPC3QX",
+          "name": "Hugo van Kemenade",
+          "slug": "hugo-van-kemenade",
+          "website_url": "https://ep2024.europython.eu/speaker/hugo-van-kemenade"
+        },
+        {
+          "avatar": "",
+          "code": "SCAGQW",
+          "name": "Petr Viktorin",
+          "slug": "petr-viktorin",
+          "website_url": "https://ep2024.europython.eu/speaker/petr-viktorin"
+        },
+        {
+          "avatar": "https://program.europython.eu/media/avatars/%C5%81ukasz_Langa_Portret_2021.10_Prawy_profil_VNI4Aj1.jpeg",
+          "code": "YFCVFV",
+          "name": "\u0141ukasz Langa",
+          "slug": "lukasz-langa",
+          "website_url": "https://ep2024.europython.eu/speaker/lukasz-langa"
+        }
+      ],
       "start": "2024-07-10T14:00:00+02:00",
-      "title": "Discussion Panel TBD",
+      "title": "CPython Core Development Panel",
       "track": null,
       "tweet": "",
-      "website_url": "https://ep2024.europython.eu/session/discussion-panel-tbd"
+      "website_url": "https://ep2024.europython.eu/session/cpython-core-development-panel"
     },
     {
       "code": "B8SZMM",
@@ -698,7 +741,7 @@
       "duration": 30,
       "event_type": "session",
       "level": "intermediate",
-      "rooms": ["South Hall 2B"],
+      "rooms": ["South Hall 2A"],
       "session_type": "Talk",
       "slug": "zero-trust-apis-with-python",
       "speakers": [
@@ -797,7 +840,7 @@
       "duration": 30,
       "event_type": "session",
       "level": "intermediate",
-      "rooms": ["South Hall 2B"],
+      "rooms": ["South Hall 2A"],
       "session_type": "Talk",
       "slug": "deadcode-a-tool-to-find-and-fix-unused-dead-python-code",
       "speakers": [
@@ -1090,6 +1133,29 @@
       "website_url": "https://ep2024.europython.eu/session/impersonation-in-data-engineering-no-more-credentials-in-your-code"
     },
     {
+      "code": "TPNQRM",
+      "duration": 30,
+      "event_type": "session",
+      "level": "intermediate",
+      "rooms": ["South Hall 2B"],
+      "session_type": "Talk",
+      "slug": "how-we-sped-up-numpys-string-operations-for-numpy-2-0",
+      "speakers": [
+        {
+          "avatar": "https://program.europython.eu/media/avatars/_DSF4665_cropped-min_N6pvoQR.jpg",
+          "code": "FRXXAQ",
+          "name": "Lysandros Nikolaou",
+          "slug": "lysandros-nikolaou",
+          "website_url": "https://ep2024.europython.eu/speaker/lysandros-nikolaou"
+        }
+      ],
+      "start": "2024-07-10T16:05:00+02:00",
+      "title": "How we sped up NumPy\u2019s string operations for NumPy 2.0",
+      "track": "Python Libraries & Tooling",
+      "tweet": "",
+      "website_url": "https://ep2024.europython.eu/session/how-we-sped-up-numpys-string-operations-for-numpy-2-0"
+    },
+    {
       "code": "U3JZZP",
       "duration": 30,
       "event_type": "session",
@@ -1122,7 +1188,7 @@
       "slug": "deciphering-the-mysteries-of-human-genomes",
       "speakers": [
         {
-          "avatar": "",
+          "avatar": "https://program.europython.eu/media/avatars/anna_cAPJO8p.jpg",
           "code": "HUVVLU",
           "name": "Anna P\u0159istoupilov\u00e1",
           "slug": "anna-pristoupilova",
