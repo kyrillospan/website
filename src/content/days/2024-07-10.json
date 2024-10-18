@@ -48,7 +48,7 @@
       "slug": "embracing-python-ai-and-heuristics-optimal-paths-for-impactful-software",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/carol_2XdXiWK.webp",
+          "avatar": "https://program.europython.eu/media/avatars/HBHXB3_fd2bdRz.webp",
           "code": "HBHXB3",
           "name": "Carol Willing",
           "slug": "carol-willing",
@@ -85,7 +85,7 @@
       "slug": "learning-to-code-in-the-age-of-ai",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/PXL_20220202_063143310_vOk18MH.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/GZHPTE_XDsXdMF.jpg",
           "code": "GZHPTE",
           "name": "Sheena O'Connell",
           "slug": "sheena-o-connell",
@@ -108,7 +108,7 @@
       "slug": "how-to-sell-a-big-refactor-or-rewrite-to-the-business",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/DSC_2275_VN94PyO.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/9SYDFX_LLVG1DX.jpg",
           "code": "9SYDFX",
           "name": "Ivett \u00d6rd\u00f6g",
           "slug": "ivett-ordog",
@@ -122,36 +122,6 @@
       "website_url": "https://ep2024.europython.eu/session/how-to-sell-a-big-refactor-or-rewrite-to-the-business"
     },
     {
-      "code": "DMV8BL",
-      "duration": 45,
-      "event_type": "session",
-      "level": "intermediate",
-      "rooms": ["Terrace 2A"],
-      "session_type": "Talk (long session)",
-      "slug": "profile-optimize-repeat-one-core-is-all-you-needtm",
-      "speakers": [
-        {
-          "avatar": "https://program.europython.eu/media/avatars/ich_jbJLWp2.jpg",
-          "code": "BBXVHQ",
-          "name": "Valentin Nieper",
-          "slug": "valentin-nieper",
-          "website_url": "https://ep2024.europython.eu/speaker/valentin-nieper"
-        },
-        {
-          "avatar": "https://program.europython.eu/media/avatars/profile_cropped_bw_97GMX9a.jpg",
-          "code": "YWKXWU",
-          "name": "Jonathan Striebel",
-          "slug": "jonathan-striebel",
-          "website_url": "https://ep2024.europython.eu/speaker/jonathan-striebel"
-        }
-      ],
-      "start": "2024-07-10T10:45:00+02:00",
-      "title": "Profile, Optimize, Repeat: One Core Is All You Need\u2122",
-      "track": "PyData: Data Engineering",
-      "tweet": "Profile, optimize, repeat, one core is all you need\u2122! Discover handy tools for your optimization cycle!",
-      "website_url": "https://ep2024.europython.eu/session/profile-optimize-repeat-one-core-is-all-you-needtm"
-    },
-    {
       "code": "GHYHAE",
       "duration": 45,
       "event_type": "session",
@@ -161,14 +131,14 @@
       "slug": "from-text-to-context-how-we-introduced-a-modern-hybrid-search",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/AnsgarProfilePictureGYG2018MID_AGPP0LB.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/CNDARF_C0fLyqK.jpg",
           "code": "CNDARF",
           "name": "Ansgar Gruene",
           "slug": "ansgar-gruene",
           "website_url": "https://ep2024.europython.eu/speaker/ansgar-gruene"
         },
         {
-          "avatar": "https://program.europython.eu/media/avatars/Screenshot_2024-06-19_at_5.34.56PM_5pshx3O.png",
+          "avatar": "https://program.europython.eu/media/avatars/WEWNJK_5afLZM9.png",
           "code": "WEWNJK",
           "name": "Dharin Shah",
           "slug": "dharin-shah",
@@ -191,7 +161,7 @@
       "slug": "animations-from-first-principles",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/rgs_square_pMKs1bG.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/BLNV7P_bI8IutA.jpg",
           "code": "BLNV7P",
           "name": "Rodrigo Gir\u00e3o Serr\u00e3o",
           "slug": "rodrigo-girao-serrao",
@@ -205,6 +175,29 @@
       "website_url": "https://ep2024.europython.eu/session/animations-from-first-principles"
     },
     {
+      "code": "VDDTBS",
+      "duration": 45,
+      "event_type": "session",
+      "level": "advanced",
+      "rooms": ["Terrace 2A"],
+      "session_type": "Talk (long session)",
+      "slug": "is-rag-all-you-need-a-look-at-the-limits-of-retrieval-augmented-generation",
+      "speakers": [
+        {
+          "avatar": "",
+          "code": "3WVLQA",
+          "name": "Sara Zanzottera",
+          "slug": "sara-zanzottera",
+          "website_url": "https://ep2024.europython.eu/speaker/sara-zanzottera"
+        }
+      ],
+      "start": "2024-07-10T10:45:00+02:00",
+      "title": "Is RAG all you need? A look at the limits of retrieval augmented generation",
+      "track": "PyData: LLMs",
+      "tweet": "Improving your LLM's output with RAG feels like \u2728 magic \u2728: effective, cheap, easy to implement. But when it doesn't work, do you know how to fix it? \ud83e\ude7a Let's explore the limits of this amazing LLM technique \ud83e\udded",
+      "website_url": "https://ep2024.europython.eu/session/is-rag-all-you-need-a-look-at-the-limits-of-retrieval-augmented-generation"
+    },
+    {
       "code": "ZWDDAT",
       "duration": 45,
       "event_type": "session",
@@ -214,7 +207,7 @@
       "slug": "spy-static-python-lang-fast-as-c-pythonic-as-python",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/cdc3cafa377f0e0e93fc69636021ef65_Uf9XcVF.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/QMAPYZ_ptOqadh.jpg",
           "code": "QMAPYZ",
           "name": "Antonio Cuni",
           "slug": "antonio-cuni",
@@ -237,7 +230,7 @@
       "slug": "fastapi-internals",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/gxssyo64_400x400_UWBnBAf.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/BGPPXA_cQSA7jj.jpg",
           "code": "BGPPXA",
           "name": "Marcelo Trylesinski",
           "slug": "marcelo-trylesinski",
@@ -260,7 +253,7 @@
       "slug": "accelerating-python-with-rust-the-pyo3-revolution",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/overview_image_46514765_618317_VN0Q3iZ.png",
+          "avatar": "https://program.europython.eu/media/avatars/7KXBK3_pY0HcVh.png",
           "code": "7KXBK3",
           "name": "Roshan R Chandar",
           "slug": "roshan-r-chandar",
@@ -283,7 +276,7 @@
       "slug": "intellectual-property-law-101",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/d3da8160dd1848c1194e15df4fb1051c_bFs9Mv0.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/XXDZKP_MGbtKKe.jpg",
           "code": "XXDZKP",
           "name": "Anwesha Das",
           "slug": "anwesha-das",
@@ -306,7 +299,7 @@
       "slug": "aggregating-data-in-django-using-database-views",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/120862698_10219640284332728_910766720099219908_n_VFpwzLs.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/TDUUPM_6LJy7B0.jpg",
           "code": "TDUUPM",
           "name": "Mikul\u00e1\u0161 Poul",
           "slug": "mikulas-poul",
@@ -352,7 +345,7 @@
       "slug": "building-scalable-multimodal-search-applications-with-python",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/Zain_Hasan_headshot_1dWWkI1.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/XDWZ8P_1zW11nz.jpg",
           "code": "XDWZ8P",
           "name": "Zain Hasan",
           "slug": "zain-hasan",
@@ -375,7 +368,7 @@
       "slug": "deconstructing-the-text-embedding-models",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/DSC_1400_300_square_iw3favM.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/H3RSTE_qsyggPK.jpg",
           "code": "H3RSTE",
           "name": "Kacper \u0141ukawski",
           "slug": "kacper-lukawski",
@@ -398,7 +391,7 @@
       "slug": "state-of-the-art-image-generation-for-the-masses-with-diffusers",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/e041d9365863d211e7cded4b128fb2c0_0mUNoVg.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/JJLYHF_WCMJV7d.jpg",
           "code": "JJLYHF",
           "name": "Sayak Paul",
           "slug": "sayak-paul",
@@ -421,7 +414,7 @@
       "slug": "demystify-python-types-for-pep-729",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/PyCon_US_selfie_sGzgapq.jpeg",
+          "avatar": "https://program.europython.eu/media/avatars/XKDR9U_xprzyTj.jpeg",
           "code": "XKDR9U",
           "name": "Kir Chou",
           "slug": "kir-chou",
@@ -444,7 +437,7 @@
       "slug": "dfd-documentation-first-development-with-fastapi",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/Main_Profile_VKtr0RW.jpeg",
+          "avatar": "https://program.europython.eu/media/avatars/RVFLYU_gv28NOK.jpeg",
           "code": "RVFLYU",
           "name": "Taehyun Lee",
           "slug": "taehyun-lee",
@@ -467,7 +460,7 @@
       "slug": "and-justice-for-ail",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/Bewerbungsbild_2024_c1214fr.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/ECLXGR_WB5sOEU.jpg",
           "code": "ECLXGR",
           "name": "Martina Guttau-Zielke",
           "slug": "martina-guttau-zielke",
@@ -490,7 +483,7 @@
       "slug": "from-built-in-concurrency-primitives-to-large-scale-distributed-computing",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/profil_ju_IMG_8102_1_ckFI61i.jpeg",
+          "avatar": "https://program.europython.eu/media/avatars/BLWEQ9_afNpKeT.jpeg",
           "code": "BLWEQ9",
           "name": "Jakub Urban",
           "slug": "jakub-urban",
@@ -527,7 +520,7 @@
       "slug": "building-end-to-end-reliable-rag-applications",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/headshot_EAa6B7u.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/PVSNUG_e8eYgZh.jpg",
           "code": "PVSNUG",
           "name": "Bilge Y\u00fccel",
           "slug": "bilge-yucel",
@@ -550,7 +543,7 @@
       "slug": "rapid-detection-of-red-cell-membrane-defects-leading-to-hemolytic-anaemias",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/photo_own_croped_5gtMslD.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/FNMQXB_ib4sDL5.jpg",
           "code": "FNMQXB",
           "name": "Tess Afanasyeva",
           "slug": "tess-afanasyeva",
@@ -573,7 +566,7 @@
       "slug": "stop-using-setup-py",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/piotr_QRIgPbJ.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/A7Q3CY_OnpsXBC.jpg",
           "code": "A7Q3CY",
           "name": "Piotr Gnus",
           "slug": "piotr-gnus",
@@ -596,7 +589,7 @@
       "slug": "the-art-of-the-pull-request",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/IMG-20230319-WA0011_FPa3b6Y.jpeg",
+          "avatar": "https://program.europython.eu/media/avatars/CZLRNY_SWwtZmD.jpeg",
           "code": "CZLRNY",
           "name": "Ben Lomax",
           "slug": "ben-lomax",
@@ -619,7 +612,7 @@
       "slug": "writing-python-like-it-s-rust-more-robust-code-with-type-hints",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/kuba_NsMw534.png",
+          "avatar": "https://program.europython.eu/media/avatars/3HJ8ME_7zMCmlL.png",
           "code": "3HJ8ME",
           "name": "Jakub Ber\u00e1nek",
           "slug": "jakub-beranek",
@@ -637,15 +630,58 @@
       "duration": 60,
       "event_type": "session",
       "level": "beginner",
-      "rooms": ["South Hall 2A"],
+      "rooms": ["South Hall 2B"],
       "session_type": "Panel",
-      "slug": "discussion-panel-tbd",
-      "speakers": [],
+      "slug": "cpython-core-development-panel",
+      "speakers": [
+        {
+          "avatar": "https://program.europython.eu/media/avatars/HBHXB3_fd2bdRz.webp",
+          "code": "HBHXB3",
+          "name": "Carol Willing",
+          "slug": "carol-willing",
+          "website_url": "https://ep2024.europython.eu/speaker/carol-willing"
+        },
+        {
+          "avatar": "https://program.europython.eu/media/avatars/LBHYNH_6Eh1Aha.jpg",
+          "code": "LBHYNH",
+          "name": "Victor Stinner",
+          "slug": "victor-stinner",
+          "website_url": "https://ep2024.europython.eu/speaker/victor-stinner"
+        },
+        {
+          "avatar": "https://program.europython.eu/media/avatars/NLHSWB_umWpyZ6.jpg",
+          "code": "NLHSWB",
+          "name": "Pablo Galindo Salgado",
+          "slug": "pablo-galindo-salgado",
+          "website_url": "https://ep2024.europython.eu/speaker/pablo-galindo-salgado"
+        },
+        {
+          "avatar": "",
+          "code": "NPC3QX",
+          "name": "Hugo van Kemenade",
+          "slug": "hugo-van-kemenade",
+          "website_url": "https://ep2024.europython.eu/speaker/hugo-van-kemenade"
+        },
+        {
+          "avatar": "",
+          "code": "SCAGQW",
+          "name": "Petr Viktorin",
+          "slug": "petr-viktorin",
+          "website_url": "https://ep2024.europython.eu/speaker/petr-viktorin"
+        },
+        {
+          "avatar": "https://program.europython.eu/media/avatars/YFCVFV_Zst0peg.jpeg",
+          "code": "YFCVFV",
+          "name": "\u0141ukasz Langa",
+          "slug": "lukasz-langa",
+          "website_url": "https://ep2024.europython.eu/speaker/lukasz-langa"
+        }
+      ],
       "start": "2024-07-10T14:00:00+02:00",
-      "title": "Discussion Panel TBD",
+      "title": "CPython Core Development Panel",
       "track": null,
       "tweet": "",
-      "website_url": "https://ep2024.europython.eu/session/discussion-panel-tbd"
+      "website_url": "https://ep2024.europython.eu/session/cpython-core-development-panel"
     },
     {
       "code": "B8SZMM",
@@ -657,7 +693,7 @@
       "slug": "geopandas-1-0-and-beyond",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/2019_des_sq_web_small_UNza8hK.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/NN8GFM_rtrrsmv.jpg",
           "code": "NN8GFM",
           "name": "Martin Fleischmann",
           "slug": "martin-fleischmann",
@@ -680,7 +716,7 @@
       "slug": "one-analysis-a-day-keeps-anomalies-away",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/Madalina_G58LrA8.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/L9HKCJ_QQvCcS9.jpg",
           "code": "L9HKCJ",
           "name": "Madalina Ciortan",
           "slug": "madalina-ciortan",
@@ -698,12 +734,12 @@
       "duration": 30,
       "event_type": "session",
       "level": "intermediate",
-      "rooms": ["South Hall 2B"],
+      "rooms": ["South Hall 2A"],
       "session_type": "Talk",
       "slug": "zero-trust-apis-with-python",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/8c7cbcbb2300732700ae07c355bea321_KNq5p02.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/YRPTZY_vpeaeOZ.jpg",
           "code": "YRPTZY",
           "name": "Jose Haro Peralta",
           "slug": "jose-haro-peralta",
@@ -726,7 +762,7 @@
       "slug": "demystifying-asyncio-building-your-own-event-loop-in-python",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/ppTwitter_7jRDDGe.png",
+          "avatar": "https://program.europython.eu/media/avatars/UF9YY9_rHnFtpk.png",
           "code": "UF9YY9",
           "name": "Arthur Pastel",
           "slug": "arthur-pastel",
@@ -749,14 +785,14 @@
       "slug": "from-pandas-to-production-elt-with-dlt",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/Team_photo_Violetta_1_vRKT7Wy.jpeg",
+          "avatar": "https://program.europython.eu/media/avatars/3RZLNH_5MUPvA1.jpeg",
           "code": "3RZLNH",
           "name": "Violetta Mishechkina",
           "slug": "violetta-mishechkina",
           "website_url": "https://ep2024.europython.eu/speaker/violetta-mishechkina"
         },
         {
-          "avatar": "https://program.europython.eu/media/avatars/0_36TwAGp.jpeg",
+          "avatar": "https://program.europython.eu/media/avatars/YPDD8Z_1Vopdbv.jpeg",
           "code": "YPDD8Z",
           "name": "Adrian Brudaru",
           "slug": "adrian-brudaru",
@@ -779,7 +815,7 @@
       "slug": "the-pyarrow-revolution-in-pandas",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/reuven-new-headshot_srjlhGN.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/VZM8L3_K3BCzbP.jpg",
           "code": "VZM8L3",
           "name": "Reuven M. Lerner",
           "slug": "reuven-m-lerner",
@@ -797,12 +833,12 @@
       "duration": 30,
       "event_type": "session",
       "level": "intermediate",
-      "rooms": ["South Hall 2B"],
+      "rooms": ["South Hall 2A"],
       "session_type": "Talk",
       "slug": "deadcode-a-tool-to-find-and-fix-unused-dead-python-code",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/avatar_smiling_head_yXn1h5n.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/K8XYZX_pjBB8qh.jpg",
           "code": "K8XYZX",
           "name": "Albertas Gimbutas",
           "slug": "albertas-gimbutas",
@@ -862,7 +898,7 @@
       "slug": "designing-config-files-the-conflicting-needs-of-programmers-and-users",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/IMG_20230827_164738_VIbffcI.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/GYETSD_2WRzxiZ.jpg",
           "code": "GYETSD",
           "name": "Steven Pool",
           "slug": "steven-pool",
@@ -885,7 +921,7 @@
       "slug": "automate-your-kitchen-with-python-applied-ai",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/1690376591161_RjWaV73.jpeg",
+          "avatar": "https://program.europython.eu/media/avatars/KVWBAJ_dK2QrzR.jpeg",
           "code": "KVWBAJ",
           "name": "Sena Sahin",
           "slug": "sena-sahin",
@@ -908,7 +944,7 @@
       "slug": "event-sourcing-in-production",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/Borjan-square_sL3AMa2.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/8LC3YQ_0YynGPr.jpg",
           "code": "8LC3YQ",
           "name": "Borjan Tchakaloff",
           "slug": "borjan-tchakaloff",
@@ -931,7 +967,7 @@
       "slug": "keeping-your-projects-nice-and-clean",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/08a3919d9f7f16d31dc71ade4db10aac_zR5d9bP.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/FWGLE3_ut4z3AX.jpg",
           "code": "FWGLE3",
           "name": "Jan Mus\u00edlek",
           "slug": "jan-musilek",
@@ -954,7 +990,7 @@
       "slug": "enterprise-python-software-that-lives-long-and-prosper",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/speaker-pic_KRkwzgM.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/EU8HKQ_Yx4IAlX.jpg",
           "code": "EU8HKQ",
           "name": "Alvaro Duran",
           "slug": "alvaro-duran",
@@ -977,14 +1013,14 @@
       "slug": "invent-with-pyscript",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/avatar_large_FOn6ad4.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/BQVLYL_toXTM3O.jpg",
           "code": "BQVLYL",
           "name": "Nicholas Tollervey",
           "slug": "nicholas-tollervey",
           "website_url": "https://ep2024.europython.eu/speaker/nicholas-tollervey"
         },
         {
-          "avatar": "https://program.europython.eu/media/avatars/318e025f2c36f1b25e0720d8055626c5_55n4SL3.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/G7GCFL_oS3SykB.jpg",
           "code": "G7GCFL",
           "name": "Joshua Lowe",
           "slug": "joshua-lowe",
@@ -1007,7 +1043,7 @@
       "slug": "enhancing-decorators-with-type-annotations-techniques-and-best-practices",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/1623257808998_LsMvU8V.jpg",
+          "avatar": "https://program.europython.eu/media/avatars/BPFJEJ_nLBJXXt.jpg",
           "code": "BPFJEJ",
           "name": "Koudai Aono",
           "slug": "koudai-aono",
@@ -1030,7 +1066,7 @@
       "slug": "i-reverse-engineered-a-work-of-art-and-this-is-what-i-learned",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/Headshot_qTUo1Bv.png",
+          "avatar": "https://program.europython.eu/media/avatars/VCGHPN_UnwFADV.png",
           "code": "VCGHPN",
           "name": "Yair Galler",
           "slug": "yair-galler",
@@ -1053,7 +1089,7 @@
       "slug": "how-to-deliver-3x-faster-with-effective-api-design",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/577AA1D3-F361-4F3F-9A9F-C3FA05418688_KbiWs6E.JPG",
+          "avatar": "https://program.europython.eu/media/avatars/R3AGHS_9mmPbUA.JPG",
           "code": "R3AGHS",
           "name": "Michal Cyprian",
           "slug": "michal-cyprian",
@@ -1076,7 +1112,7 @@
       "slug": "impersonation-in-data-engineering-no-more-credentials-in-your-code",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/avatar_bgYNeZr.png",
+          "avatar": "https://program.europython.eu/media/avatars/HGKR9V_3lZao24.png",
           "code": "HGKR9V",
           "name": "Marian \u0160pilka",
           "slug": "marian-spilka",
@@ -1090,6 +1126,29 @@
       "website_url": "https://ep2024.europython.eu/session/impersonation-in-data-engineering-no-more-credentials-in-your-code"
     },
     {
+      "code": "TPNQRM",
+      "duration": 30,
+      "event_type": "session",
+      "level": "intermediate",
+      "rooms": ["South Hall 2B"],
+      "session_type": "Talk",
+      "slug": "how-we-sped-up-numpys-string-operations-for-numpy-2-0",
+      "speakers": [
+        {
+          "avatar": "https://program.europython.eu/media/avatars/FRXXAQ_XuMpTEq.jpg",
+          "code": "FRXXAQ",
+          "name": "Lysandros Nikolaou",
+          "slug": "lysandros-nikolaou",
+          "website_url": "https://ep2024.europython.eu/speaker/lysandros-nikolaou"
+        }
+      ],
+      "start": "2024-07-10T16:05:00+02:00",
+      "title": "How we sped up NumPy\u2019s string operations for NumPy 2.0",
+      "track": "Python Libraries & Tooling",
+      "tweet": "",
+      "website_url": "https://ep2024.europython.eu/session/how-we-sped-up-numpys-string-operations-for-numpy-2-0"
+    },
+    {
       "code": "U3JZZP",
       "duration": 30,
       "event_type": "session",
@@ -1099,7 +1158,7 @@
       "slug": "the-role-of-c-in-the-python-ecosystem-the-case-of-the-qt-framework",
       "speakers": [
         {
-          "avatar": "https://program.europython.eu/media/avatars/profile_large_hWzvvJp.JPG",
+          "avatar": "https://program.europython.eu/media/avatars/JYPKC9_Fsf26Fi.JPG",
           "code": "JYPKC9",
           "name": "Cristi\u00e1n Maureira-Fredes",
           "slug": "cristian-maureira-fredes",
@@ -1122,7 +1181,7 @@
       "slug": "deciphering-the-mysteries-of-human-genomes",
       "speakers": [
         {
-          "avatar": "",
+          "avatar": "https://program.europython.eu/media/avatars/HUVVLU_4xMIKCP.jpg",
           "code": "HUVVLU",
           "name": "Anna P\u0159istoupilov\u00e1",
           "slug": "anna-pristoupilova",
